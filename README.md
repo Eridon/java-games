@@ -18,6 +18,3 @@ Clone the repository to your local machine and open the .pde file of the game yo
 
 Feel free to contribute to this repository by adding new games or improving the existing ones.
 
-# License
-
-This repository is licensed under the MIT License.
